@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\bin\Debug\Brick_Breaking_Game.exe.config
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\bin\Debug\Brick_Breaking_Game.exe
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\bin\Debug\Brick_Breaking_Game.pdb
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.Form1.resources
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.Properties.Resources.resources
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.exe
+C:\Users\USER\source\repos\Brick_Breaking_Game\Brick_Breaking_Game\obj\Debug\Brick_Breaking_Game.pdb
